@@ -1,0 +1,17 @@
+C:\Users\PC5\Fortress\bin\Debug\net10.0\Fortress.exe
+C:\Users\PC5\Fortress\bin\Debug\net10.0\Fortress.deps.json
+C:\Users\PC5\Fortress\bin\Debug\net10.0\Fortress.runtimeconfig.json
+C:\Users\PC5\Fortress\bin\Debug\net10.0\Fortress.dll
+C:\Users\PC5\Fortress\bin\Debug\net10.0\Fortress.pdb
+C:\Users\PC5\Fortress\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.csproj.AssemblyReference.cache
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.AssemblyInfoInputs.cache
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.AssemblyInfo.cs
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.csproj.CoreCompileInputs.cache
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.csproj.Up2Date
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.dll
+C:\Users\PC5\Fortress\obj\Debug\net10.0\refint\Fortress.dll
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.pdb
+C:\Users\PC5\Fortress\obj\Debug\net10.0\Fortress.genruntimeconfig.cache
+C:\Users\PC5\Fortress\obj\Debug\net10.0\ref\Fortress.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQ5ed8/S4bU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC5\\Fortress\\Fortress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC5\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC5\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\PC5\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.3\\microsoft.netcore.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC5\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\PC5\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.3\\microsoft.aspnetcore.app.runtime.win-x64.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

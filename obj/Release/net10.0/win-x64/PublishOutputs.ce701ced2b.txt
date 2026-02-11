@@ -1,0 +1,2 @@
+C:\Users\PC5\Fortress\bin\Release\net10.0\win-x64\publish\Fortress.pdb
+C:\Users\PC5\Fortress\bin\Release\net10.0\win-x64\publish\Fortress.exe
